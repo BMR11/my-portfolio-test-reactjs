@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-test-reactjs/static/css/main.bf52779d.chunk.css",
+    "main.js": "/my-portfolio-test-reactjs/static/js/main.2f50f7a3.chunk.js",
+    "main.js.map": "/my-portfolio-test-reactjs/static/js/main.2f50f7a3.chunk.js.map",
+    "runtime-main.js": "/my-portfolio-test-reactjs/static/js/runtime-main.222a03df.js",
+    "runtime-main.js.map": "/my-portfolio-test-reactjs/static/js/runtime-main.222a03df.js.map",
+    "static/js/2.af21d3ce.chunk.js": "/my-portfolio-test-reactjs/static/js/2.af21d3ce.chunk.js",
+    "static/js/2.af21d3ce.chunk.js.map": "/my-portfolio-test-reactjs/static/js/2.af21d3ce.chunk.js.map",
+    "index.html": "/my-portfolio-test-reactjs/index.html",
+    "static/css/main.bf52779d.chunk.css.map": "/my-portfolio-test-reactjs/static/css/main.bf52779d.chunk.css.map",
+    "static/js/2.af21d3ce.chunk.js.LICENSE.txt": "/my-portfolio-test-reactjs/static/js/2.af21d3ce.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/my-portfolio-test-reactjs/static/media/PermanentMarker-Regular.109a10dc.ttf",
+    "static/media/colors.1aa9d066.svg": "/my-portfolio-test-reactjs/static/media/colors.1aa9d066.svg",
+    "static/media/logo.6ce24c58.svg": "/my-portfolio-test-reactjs/static/media/logo.6ce24c58.svg",
+    "static/media/notepad.00bfae70.svg": "/my-portfolio-test-reactjs/static/media/notepad.00bfae70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.222a03df.js",
+    "static/js/2.af21d3ce.chunk.js",
+    "static/css/main.bf52779d.chunk.css",
+    "static/js/main.2f50f7a3.chunk.js"
+  ]
+}
