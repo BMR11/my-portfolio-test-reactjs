@@ -46,13 +46,22 @@ const App = () => {
     return <AppError theme={theme} error={error} />;
   }
 
+  // const homeData = {
+  //   avatar: data.avatar_url,
+  //   githubUrl: data.html_url,
+  //   name: data.name,
+  //   link: data.blog,
+  //   bio: data.bio,
+  //   twitter: data.twitter_username,
+  // };
+
   const homeData = {
-    avatar: data.avatar_url,
-    githubUrl: data.html_url,
-    name: data.name,
-    link: data.blog,
-    bio: data.bio,
-    twitter: data.twitter_username,
+    avatar: 'data.avatar_url',
+    githubUrl: 'data.html_url',
+    name: "BMR 11",
+    link: 'data.blog',
+    bio: 'data.bio',
+    twitter: 'data.twitter_username',
   };
 
   return (

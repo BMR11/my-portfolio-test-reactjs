@@ -8,6 +8,11 @@ import {
   FaNpm,
   FaGitAlt,
   FaGithubSquare,
+  FaAndroid,
+  FaApple,
+  FaDev,
+  FaAws,
+  FaMicrosoft,
 } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 
@@ -18,36 +23,26 @@ import notepad from "./assets/images/notepad.svg";
 
 /* START HERE - add your GitHub username below
  ************************************************************** */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "BMR11";
 
 /* Skills
  ************************************************************** */
 // Add or remove skills in the SAME format below, there must be one icon imported above per skill below and 3 skills per row
 export const skillData = [
   {
-    id: 1,
-    skill: <FaHtml5 className="display-4" />,
-    name: "HTML5",
+    id: 6,
+    skill: <FaReact className="display-4" />,
+    name: "React Native",
   },
   {
-    id: 2,
-    skill: <FaCss3Alt className="display-4" />,
-    name: "CSS3",
+    id: 7,
+    skill: <FaAndroid className="display-4" />,
+    name: "Android",
   },
   {
-    id: 3,
-    skill: <SiJavascript className="display-4" />,
-    name: "JavaScript",
-  },
-  {
-    id: 4,
-    skill: <FaSass className="display-4" />,
-    name: "Sass",
-  },
-  {
-    id: 5,
-    skill: <FaBootstrap className="display-4" />,
-    name: "Bootstrap",
+    id: 7,
+    skill: <FaApple className="display-4" />,
+    name: "iOS",
   },
   {
     id: 6,
@@ -66,9 +61,35 @@ export const skillData = [
   },
   {
     id: 9,
-    skill: <FaGithubSquare className="display-4" />,
-    name: "GitHub",
+    skill: <FaAws className="display-4" />,
+    name: "Aws",
   },
+  {
+    id: 1,
+    skill: <FaHtml5 className="display-4" />,
+    name: "HTML5",
+  },
+  {
+    id: 2,
+    skill: <FaMicrosoft className="display-4" />,
+    name: "Azure",
+  },
+  {
+    id: 3,
+    skill: <SiJavascript className="display-4" />,
+    name: "JavaScript",
+  },
+  {
+    id: 4,
+    skill: <FaSass className="display-4" />,
+    name: "Sass",
+  },
+  {
+    id: 5,
+    skill: <FaBootstrap className="display-4" />,
+    name: "Bootstrap",
+  },
+  
 ];
 
 /* Projects

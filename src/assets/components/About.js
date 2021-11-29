@@ -21,13 +21,13 @@ const About = ({ theme, setTheme, githubUrl, name, link, bio, twitter }) => {
     <header id="about" className={newTheme}>
       <NavBar theme={theme} setTheme={setTheme} />
       <div className="container text-center">
-        <img
+        {/* <img
           className="logo spin img-fluid"
           src={logo}
           alt="React Logo"
-          height="45%"
-          width="45%"
-        />
+          height="10%"
+          width="10%"
+        /> */}
         <h1>{name}</h1>
         <hr />
         <p>{bio}</p>
